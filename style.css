@@ -182,7 +182,7 @@ main .spanh1 span img{
     font-weight: normal;
     font-size: .9em;
     margin-top: 1em;               
-    color: gray;
+    color: rgb(126, 126, 126);
 }
 #first{
     padding: 15px 0 15px 0;
