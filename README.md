@@ -19,4 +19,4 @@ What's Next:
 
 Project led by The Odin Project.
 
-Live version of the project can be viewed here: https://christot20.github.io/Google-Home-Page/
+Live version of the project can be viewed here: https://christot20.github.io/Google-Search-Results-Page/
