@@ -12,6 +12,7 @@ What I learned:
 2. CSS grid and how to make a website layout
 3. CSS Flexbox and how to design rows/columns effectively and responsively
 4. The use of container divs and better HTML formatting and ordering
+5. Version Control and using GIT to save and fix bugs
 
 What's Next:
 1. Learn SASS/Bootstrap to clean up CSS and create better desgins
