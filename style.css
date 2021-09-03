@@ -272,7 +272,7 @@ main .spanh1 span img{
     background-color: #fff;
     border-radius: 20px;
     border: solid rgb(206, 206, 206);
-    background-image: url(/Photos/outline_arrow_forward_black_24dp.png);
+    background-image: url(Photos/outline_arrow_forward_black_24dp.png);
     background-position: left;
     background-repeat: no-repeat;
     border-width: thin;
@@ -288,7 +288,7 @@ main .spanh1 span img{
     background-color:rgb(242, 242, 250);
     border: none;
     border-radius: 10px;
-    background-image: url(/Photos/outline_expand_more_black_24dp.png);
+    background-image: url(Photos/outline_expand_more_black_24dp.png);
     background-position: right;
     background-repeat: no-repeat;
     text-align: left;
