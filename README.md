@@ -15,7 +15,7 @@ What I learned:
 5. Version Control and using GIT to save and fix bugs
 
 What's Next:
-1. Learn SASS/Bootstrap to clean up CSS and create better desgins
+1. Learn SASS/Bootstrap to clean up CSS and create better designs
 2. Learn Javascript to add function to websites
 
 Project led by The Odin Project.
